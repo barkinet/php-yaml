@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package packagerversion="1.8.0" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0  http://pear.php.net/dtd/tasks-1.0.xsd  http://pear.php.net/dtd/package-2.0  http://pear.php.net/dtd/package-2.0.xsd">
  <name>yaml</name>
- <channel>php-yaml.googlecode.com/svn</channel>
+ <channel>php-yaml.googlecode.com/svn/pear</channel>
  <summary>YAML Ain&apos;t Markup Language</summary>
  <description>Support for YAML (YAML Ain&apos;t Markup Language) serialization.</description>
  <lead>

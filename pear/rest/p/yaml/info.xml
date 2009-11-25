@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <p>
  <n>yaml</n>
- <c>php-yaml.googlecode.com/svn</c>
+ <c>php-yaml.googlecode.com/svn/pear</c>
  <ca xlink:href="rest/c/Default" xmlns:xlink="rest/c/Default">Default</ca>
  <l>MIT</l>
  <s>YAML Ain't Markup Language</s>

@@ -3,7 +3,7 @@
  <pi>
   <p>
    <n>yaml</n>
-   <c>php-yaml.googlecode.com/svn</c>
+   <c>php-yaml.googlecode.com/svn/pear</c>
    <ca xmlns:xlink="rest/c/Default" xlink:href="rest/c/Default">Default</ca>
    <l>MIT</l>
    <s>YAML Ain't Markup Language</s>
