@@ -12,3 +12,8 @@ Inspiration and some implementation details have been taken from:
   * php-syck [http://pecl.php.net/package/syck]
   * [http://www.macruby.org/ MacRuby]'s [http://www.macruby.org/trac/browser/MacRuby/trunk/ext/libyaml libyaml wrapper]
   * LibYAML's examples [http://pyyaml.org/wiki/LibYAML]
+
+
+Other helpful folks:
+  * [http://code.google.com/u/brett.bieber/ Brett Bieber] and his [http://saltybeagle.com/2008/12/using-simplechannelserver-to-manage-a-pear-channel-on-google-code/ tutorial on hosting a pear channel on googlecode].
+  * [http://tylerrick.com/ Tyler Rick] and his [http://whynotwiki.com/How_I_moved_my_code_repository_to_Google_Code tutorial on moving a subversion project to googlecode].
