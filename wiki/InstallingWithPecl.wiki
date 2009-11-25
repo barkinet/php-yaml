@@ -1,0 +1,16 @@
+#summary Instructions for installing extension with pecl
+#labels Featured,Phase-Deploy
+
+= Howto Install with Pecl =
+
+== Unix ==
+
+  # Install [http://pyyaml.org/wiki/LibYAML LibYAML] using your favorite method. For example on a Ubuntu machine `sudo apt-get install libyaml-dev` will get what you need.
+  # `sudo pear channel-discover php-yaml.googlecode.com/svn/pear`
+  # `sudo pecl install php-yaml/yaml-alpha`
+  # Edit your php.ini settings and add "extension=yaml.so"
+  # See if it worked with `php --re yaml`
+
+== Windows ==
+
+Good question. Anyone want to step up and figure out how to do this?
