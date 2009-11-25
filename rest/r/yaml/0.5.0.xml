@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+ <p xlink:href="rest/p/yaml">yaml</p>
+ <c>php-yaml.googlecode.com/svn</c>
+ <v>0.5.0</v>
+ <st>alpha</st>
+ <l>MIT</l>
+ <m>bpd</m>
+ <s>YAML Ain't Markup Language</s>
+ <d>Support for YAML (YAML Ain't Markup Language) serialization.</d>
+ <da>2009-11-25 13:01:01</da>
+ <n>
+Implemented yaml_emit and yaml_emit_file. Wrote basic phpdoc content. Lots
+and lots of new unit tests.
+ </n>
+ <f>34710</f>
+ <g>http://php-yaml.googlecode.com/svn/get/yaml-0.5.0</g>
+ <x xlink:href="package.0.5.0.xml"/>
+</r>
