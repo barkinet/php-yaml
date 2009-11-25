@@ -9,13 +9,14 @@
  <l>MIT</l>
  <m>bpd</m>
  <s>YAML Ain't Markup Language</s>
- <d>Support for YAML (YAML Ain't Markup Language) serialization.</d>
- <da>2009-11-25 13:01:01</da>
+ <d>Support for YAML (YAML Ain't Markup Language) serialization using the
+  LibYAML library.</d>
+ <da>2009-11-25 14:28:39</da>
  <n>
 Implemented yaml_emit and yaml_emit_file. Wrote basic phpdoc content. Lots
 and lots of new unit tests.
  </n>
- <f>34710</f>
+ <f>34737</f>
  <g>http://php-yaml.googlecode.com/svn/pear/get/yaml-0.5.0</g>
  <x xlink:href="package.0.5.0.xml"/>
 </r>
