@@ -1,0 +1,14 @@
+#summary Thanks for helping.
+#labels Featured
+
+= Acknowledgements =
+
+php-yaml v0.1.0 through v0.3.0 was developed by [http://d.hatena.ne.jp/rsky/20071228/1198841055 Ryusuke Sekiyama].
+
+Starting with v0.4.0 the extension has been maintained by Bryan Davis with
+support from [http://keynetics.com Keynetics Inc]. Special thanks to Brad and Tim for being executives who understand that giving back to the open source community is important.
+
+Inspiration and some implementation details have been taken from:
+  * php-syck [http://pecl.php.net/package/syck]
+  * [http://www.macruby.org/ MacRuby]'s [http://www.macruby.org/trac/browser/MacRuby/trunk/ext/libyaml libyaml wrapper]
+  * LibYAML's examples [http://pyyaml.org/wiki/LibYAML]
