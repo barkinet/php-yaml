@@ -9,12 +9,12 @@
  <s>YAML Ain't Markup Language</s>
  <d>Support for YAML (YAML Ain't Markup Language) serialization using the
   LibYAML library.</d>
- <da>2010-01-25 12:13:24</da>
+ <da>2010-01-25 13:01:23</da>
  <n>
 Support for '&lt;&lt;' (merge) in mappings. Fixed issues with php 5.3 and
 ZTS compilation. Added support for emitting recursive arrays.
  </n>
- <f>32895</f>
+ <f>32903</f>
  <g>http://php-yaml.googlecode.com/svn/pear/get/yaml-0.6.0</g>
  <x xlink:href="package.0.6.0.xml"/>
 </r>

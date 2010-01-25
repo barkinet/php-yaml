@@ -18,7 +18,7 @@
   <active>no</active>
  </lead>
  <date>2010-01-25</date>
- <time>12:13:24</time>
+ <time>13:01:23</time>
  <version>
   <release>0.6.0</release>
   <api>0.6.0</api>
@@ -87,7 +87,7 @@ ZTS compilation. Added support for emitting recursive arrays.
    <file md5sum="7a428b9323e49bec48b83100ace5af4c" name="emit.c" role="src" />
    <file md5sum="c2266d0217397c6093851e9748e368c4" name="package.xml" role="src" />
    <file md5sum="1b01c148b948ea35ddbc70309a5f0a00" name="parse.c" role="src" />
-   <file md5sum="266808f134ea11c4cdddf36a86b453d7" name="php_yaml.h" role="src" />
+   <file md5sum="8d4e894d5519780ba3844c44424a9e76" name="php_yaml.h" role="src" />
    <file md5sum="c5d2948cc26a3752321b2281b1b220b0" name="php_yaml_int.h" role="src" />
    <file md5sum="fcce5c93e6bae5e853d79cbb7ca0e266" name="yaml.c" role="src" />
    <file md5sum="f89000329613de3cac1f60449164da17" name="yaml.dsp" role="src" />
