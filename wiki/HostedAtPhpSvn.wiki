@@ -1,5 +1,3 @@
-#summary Source moved to svn.php.net
-
 = Source Code =
 
 The source code for the php-yaml project has moved to [http://svn.php.net/viewvc/pecl/yaml official PECL hosting at svn.php.net].
