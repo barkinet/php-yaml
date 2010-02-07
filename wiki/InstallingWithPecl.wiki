@@ -6,8 +6,7 @@
 == Unix ==
 
   # Install [http://pyyaml.org/wiki/LibYAML LibYAML] using your favorite method. For example on a Ubuntu machine `sudo apt-get install libyaml-dev` will get what you need.
-  # `sudo pecl channel-discover php-yaml.googlecode.com/svn/pear`
-  # `sudo pecl install php-yaml/yaml-beta`
+  # `sudo pecl install yaml-beta`
   # Edit your php.ini settings and add "extension=yaml.so"
   # See if it worked with `php --re yaml`
 
